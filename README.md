@@ -17,8 +17,8 @@
 | Person | Versions | Focus Areas |
 |--------|----------|-------------|
 | **Parth** | `v1` · `v2` · `v3` | AI/ML · Backend · Python · Fullstack |
-| **Riddhi** | `v1` · `v2` · `v3` | Python · Fullstack · AI/ML · PMP |
-| **Jay** | `v1` | Engineering |
+| **Riddhi** | `v1` · `v2` · `v3` | AI/ML · Backend · Python · Fullstack · PMP |
+| **Jay** | `v1` | Mechanical · MEPF Design · AutoCAD/Revit · Procurement |
 
 ---
 
@@ -44,14 +44,13 @@
 ## 🗂️ File Structure
 
 ```
-📁 CVs/
-├── 📄 Parth_CV.tex          # Original (two-column, Deedy template)
-├── 📄 Parth_CV_v2.tex       # ATS-optimized single-column
-├── 📄 Parth_CV_v3.tex       # Compact variant
-├── 📄 Riddhi_CV.tex         # Original (two-column)
-├── 📄 Riddhi_CV_v2.tex      # ATS-optimized single-column
-├── 📄 Riddhi_CV_v3.tex      # Compact variant
-└── 📄 Jay_CV.tex            # Single version
+📄 Parth_CV.tex          # Original (two-column, Deedy template)
+📄 Parth_CV_v2.tex       # ATS-optimized single-column
+📄 Parth_CV_v3.tex       # Compact variant
+📄 Riddhi_CV.tex         # Original (two-column)
+📄 Riddhi_CV_v2.tex      # ATS-optimized single-column
+📄 Riddhi_CV_v3.tex      # Compact variant
+📄 Jay_CV.tex            # Single version
 ```
 
 ---
@@ -60,7 +59,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/parthsompura/CVs.git
+git clone https://github.com/parthsompura/Resume-Templates.git
 
 # Compile any resume
 pdflatex Parth_CV_v2.tex
